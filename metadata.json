@@ -1,0 +1,6 @@
+{
+  "name": "eFootball Tournaments",
+  "description": "منصة شاملة لتنظيم وإدارة بطولات eFootball واللاعبين والمباريات ومراجعة النتائج والدردشة والترتيب.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
